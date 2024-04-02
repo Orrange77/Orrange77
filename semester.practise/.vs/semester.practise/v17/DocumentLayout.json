@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\vscode\\semester.practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38041E8-131D-4976-A188-BF339D73C8F4}|semester.practise\\semester.practise.vcxproj|C:\\vscode\\semester.practise\\semester.practise\\practise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B38041E8-131D-4976-A188-BF339D73C8F4}|semester.practise\\semester.practise.vcxproj|solutionrelative:semester.practise\\practise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practise.c",
+              "DocumentMoniker": "C:\\vscode\\semester.practise\\semester.practise\\practise.c",
+              "RelativeDocumentMoniker": "semester.practise\\practise.c",
+              "ToolTip": "C:\\vscode\\semester.practise\\semester.practise\\practise.c",
+              "RelativeToolTip": "semester.practise\\practise.c",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAAAPwBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T10:11:42.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
